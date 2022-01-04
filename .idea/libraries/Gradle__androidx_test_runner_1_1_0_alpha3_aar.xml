@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:runner:1.1.0-alpha3@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../backup/Grocery-App-master/f_groceries/caches/transforms-2/files-2.1/74303f50d7140ed2d06a089f91ca8429/runner-1.1.0-alpha3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../backup/Grocery-App-master/f_groceries/caches/transforms-2/files-2.1/74303f50d7140ed2d06a089f91ca8429/runner-1.1.0-alpha3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.customview:customview:1.0.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../backup/Grocery-App-master/f_groceries/caches/transforms-2/files-2.1/86cf751735e9e9dd0416cce35c4a71a1/customview-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../backup/Grocery-App-master/f_groceries/caches/transforms-2/files-2.1/86cf751735e9e9dd0416cce35c4a71a1/customview-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

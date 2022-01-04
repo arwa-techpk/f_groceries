@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-core:3.1.0-alpha3@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../backup/Grocery-App-master/f_groceries/caches/transforms-2/files-2.1/176d33cbdb896ca564b6389781c41278/espresso-core-3.1.0-alpha3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../backup/Grocery-App-master/f_groceries/caches/transforms-2/files-2.1/176d33cbdb896ca564b6389781c41278/espresso-core-3.1.0-alpha3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
